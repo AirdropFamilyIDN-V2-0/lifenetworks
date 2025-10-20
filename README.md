@@ -13,8 +13,7 @@ Bot otomatis untuk **Life Airdrop (LifeNetworks)** yang melakukan:
 
 ✅ Login otomatis menggunakan `idToken`  
 ✅ Daily Check-in otomatis  
-✅ Daily Mission otomatis  
-✅ Deteksi status jika sudah melakukan check-in/mission (kode 409)  
+✅ Daily Mission otomatis    
 ✅ Loop 24 jam — otomatis mengulang ke akun pertama setiap hari  
 
 ---
