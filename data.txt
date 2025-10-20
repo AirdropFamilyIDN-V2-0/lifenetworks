@@ -1,0 +1,4 @@
+idToken,userEmail
+contoh
+eyJhbGciOiJSUzI1NiIsImtpZCI6IjJhMz... ,user1@gmail.com
+eyJhbGciOiJSUzI1NiIsImtpZCI6IjE1Yz... ,user2@gmail.com
