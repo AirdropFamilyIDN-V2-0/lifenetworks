@@ -25,7 +25,7 @@ Pastikan kamu sudah menginstall **Python 3.8+**
 
 Lalu install library yang dibutuhkan:
 ```
-git clone 
+git clone https://github.com/AirdropFamilyIDN-V2-0/lifenetworks.git
 ```
 ```
 cd lifenetworks
@@ -33,3 +33,19 @@ cd lifenetworks
 ```
 python bot.py
 ```
+
+🧠 Catatan
+
+Jika muncul pesan ⏳ Sudah check-in hari ini atau ⏳ Sudah kerjakan daily mission, berarti akun tersebut sudah menyelesaikan aktivitas hari ini dan bot akan otomatis menunggu 24 jam.
+
+Pastikan token masih aktif. Jika kadaluarsa, update idToken baru di data.txt.
+<img width="878" height="510" alt="image" src="https://github.com/user-attachments/assets/cdccc6c8-9889-47e2-ad4e-2172fd47b3ee" />
+
+
+
+🏷️ Credits
+
+Developer: AirdropFamilyIDN
+
+Team: ADFMIDN TEAM
+Network: Life Airdrop
